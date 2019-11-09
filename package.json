@@ -1,0 +1,18 @@
+{
+  "name": "findaircraftbyengine",
+  "version": "0.0.1",
+  "description": "Finds aircraft by engine, based in a MongoDB database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "EnginAir Team",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.3.3"
+  },
+  "devDependencies": {
+    "json2xls": "^0.1.2"
+  }
+}
