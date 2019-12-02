@@ -12,7 +12,7 @@ MongoDB requires the following setup:
 - MongoDB must have a database created named "enginair"
 
 Once MongoDB is setup, we need to import the documents into the correct collections. We will need to collect the ENGINES.csv,
-and the MASTER.csv files from the (FAA's official website)[https://www.faa.gov/licenses_certificates/aircraft_certification/aircraft_registry/releasable_aircraft_download/].
+and the MASTER.csv files from the [FAA's official website](https://www.faa.gov/licenses_certificates/aircraft_certification/aircraft_registry/releasable_aircraft_download/).
 
 Once we have these files, we will convert them to JSON files to be imported, and import them to MongoDB:
 ```bash
